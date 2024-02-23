@@ -15,9 +15,54 @@
 
 # Other
 
-Sails.js
-Meteor
-https://github.com/gin-gonic/gin
+- Sails.js
+- Meteor
+- https://github.com/gin-gonic/gin
+
+# ChatGPT Overview
+
+Here's a list of some of the most popular web frameworks grouped by programming language:
+
+### Python:
+1. Django
+2. Flask
+
+### JavaScript (Node.js):
+1. Express.js
+2. NestJS
+3. Fastify
+4. Hapi.js
+5. Koa.js
+
+### Ruby:
+1. Ruby on Rails
+2. Sinatra
+
+### PHP:
+1. Laravel
+2. Symfony
+3. CodeIgniter
+
+### Java:
+1. Spring Boot
+2. Play Framework
+3. Vaadin
+
+### Go:
+1. Gin
+2. Echo
+3. Revel
+
+### .NET (C#):
+1. ASP.NET Core
+
+### Elixir:
+1. Phoenix Framework
+
+### TypeScript:
+1. NestJS
+
+These frameworks are widely used in their respective languages and have strong communities and ecosystems supporting them.
 
 # ChatGPT Suggestions
 
