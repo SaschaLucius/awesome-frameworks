@@ -1,17 +1,30 @@
-# awesome-frameworks
+# awesome-web-dev
 
 | Framework | Stars                                                                                       | Language   |
 | --------- | ------------------------------------------------------------------------------------------- | ---------- |
-| Rails     | ![GitHub Repo stars](https://img.shields.io/github/stars/rails/rails)                       | Ruby       |
+| Next.js    | ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)                   | Node     |
 | Django    | ![GitHub Repo stars](https://img.shields.io/github/stars/django/django)                     | Python     |
 | Larael    | ![GitHub Repo stars](https://img.shields.io/github/stars/laravel/laravel)                   | PHP        |
-| Flask     | ![GitHub Repo stars](https://img.shields.io/github/stars/pallets/flask)                     | Python     |
+| Spring Boot | ![GitHub Repo stars](https://img.shields.io/github/stars/spring-projects/spring-boot)     | Java       |
 | FastAPI   | ![GitHub Repo stars](https://img.shields.io/github/stars/tiangolo/fastapi)                  | Python     |
-| Pheonix   | ![GitHub Repo stars](https://img.shields.io/github/stars/phoenixframework/phoenix)          | Elexir     |
-| Express   | ![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)                 | JavaScript |
-| Spring    | ![GitHub Repo stars](https://img.shields.io/github/stars/spring-projects/spring-framework)  | Java       |
+| Flask     | ![GitHub Repo stars](https://img.shields.io/github/stars/pallets/flask)                     | Python     |
+| Express   | ![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)                 | Node |
+| Rails     | ![GitHub Repo stars](https://img.shields.io/github/stars/rails/rails)                       | Ruby       |
 | ASP.NET Core | ![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/aspnetcore)              | C#         |
-| Symfony | ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/symfony)                     | PHP        |
+| Symfony   | ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/symfony)                   | PHP        |
+| Pheonix   | ![GitHub Repo stars](https://img.shields.io/github/stars/phoenixframework/phoenix)          | Elexir     |
+| Sails.js   | ![GitHub Repo stars](https://img.shields.io/github/stars/balderdashy/sails)                 | Node |
+| Play   | ![GitHub Repo stars](https://img.shields.io/github/stars/playframework/playframework)          | Scala     |
+
+# Leightweight FE
+
+- Django + htmx,
+- Rails + Hotwire
+- Laravel + livewire
+- Phoenix + liveview
+- asp.net + htmx
+- spring boot + htmx
+- express or sailsjs + htmx
 
 # Other
 
