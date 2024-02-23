@@ -1,27 +1,25 @@
 # awesome-web-dev
 
-| Framework | Stars                                                                                       | Language   |
-| --------- | ------------------------------------------------------------------------------------------- | ---------- |
-| Vue       | ![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/vue)                         |    Node    |
-| Next.js   | ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)                    | Node       |
-| Django    | ![GitHub Repo stars](https://img.shields.io/github/stars/django/django)                     | Python     |
-| Larael    | ![GitHub Repo stars](https://img.shields.io/github/stars/laravel/laravel)                   | PHP        |
-| Gin       | ![GitHub Repo stars](https://img.shields.io/github/stars/gin-gonic/gin)                     | Go         |
-| Spring Boot | ![GitHub Repo stars](https://img.shields.io/github/stars/spring-projects/spring-boot)     | Java       |
-| FastAPI   | ![GitHub Repo stars](https://img.shields.io/github/stars/tiangolo/fastapi)                  | Python     |
-| Flask     | ![GitHub Repo stars](https://img.shields.io/github/stars/pallets/flask)                     | Python     |
-| Express   | ![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)                 | Node       |
-| Nest      | ![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)                       |     Node   |
-| Rails     | ![GitHub Repo stars](https://img.shields.io/github/stars/rails/rails)                       | Ruby       |
-| Nuxt      | ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)                         |    Node    |
-| Meteor    | ![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)                     |    Node    |
-| ASP.NET Core | ![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/aspnetcore)              | C#         |
-| Symfony   | ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/symfony)                   | PHP        |
-| Pheonix   | ![GitHub Repo stars](https://img.shields.io/github/stars/phoenixframework/phoenix)          | Elexir     |
-| Sails.js  | ![GitHub Repo stars](https://img.shields.io/github/stars/balderdashy/sails)                 | Node       |
-| Play      | ![GitHub Repo stars](https://img.shields.io/github/stars/playframework/playframework)       | Scala      |
-
-|  | ![GitHub Repo stars](https://img.shields.io/github/stars/)                    |        |
+| Framework | Stars                                                                                       | Language   | Native Auth | ORM   |
+| --------- | ------------------------------------------------------------------------------------------- | ---------- | ------------ | ---- |
+| Vue       | ![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/vue)                         |    Node    | [X]() |
+| Next.js   | ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)                    | Node       | [V](https://nextjs.org/docs/pages/building-your-application/authentication) | X() |
+| Django    | ![GitHub Repo stars](https://img.shields.io/github/stars/django/django)                     | Python     | [V](https://docs.djangoproject.com/en/5.0/topics/auth/) | [V](https://docs.djangoproject.com/en/5.0/topics/db/queries/) |
+| Larael    | ![GitHub Repo stars](https://img.shields.io/github/stars/laravel/laravel)                   | PHP        | [V](https://laravel.com/docs/10.x/authentication) | [V](https://laravel.com/docs/10.x/eloquent) |
+| Gin       | ![GitHub Repo stars](https://img.shields.io/github/stars/gin-gonic/gin)                     | Go         | [?]() | [X]() |
+| Spring Boot | ![GitHub Repo stars](https://img.shields.io/github/stars/spring-projects/spring-boot)     | Java       | [V](https://spring.io/projects/spring-security) | [JPA -> Hibernate]() |
+| FastAPI   | ![GitHub Repo stars](https://img.shields.io/github/stars/tiangolo/fastapi)                  | Python     | [V](https://fastapi.tiangolo.com/tutorial/security/) | [X]() |
+| Flask     | ![GitHub Repo stars](https://img.shields.io/github/stars/pallets/flask)                     | Python     | [Flask-login](https://github.com/maxcountryman/flask-login) | [SQLAlchemy](https://github.com/pallets-eco/flask-sqlalchemy/) |
+| Express   | ![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)                 | Node       | [X]() | [X]() |
+| Nest      | ![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)                       |     Node   | [V](https://docs.nestjs.com/security/authentication) | [V](https://docs.nestjs.com/techniques/database) |
+| Rails     | ![GitHub Repo stars](https://img.shields.io/github/stars/rails/rails)                       | Ruby       | [V](https://guides.rubyonrails.org/security.html) | [V](https://guides.rubyonrails.org/active_record_basics.html) |
+| Nuxt      | ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)                         |    Node    | [V](https://auth.nuxtjs.org/) | [X]() |
+| Meteor    | ![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)                     |    Node    | [V](https://guide.meteor.com/accounts) |
+| ASP.NET Core | ![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/aspnetcore)              | C#         | [V](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-8.0) |
+| Symfony   | ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/symfony)                   | PHP        | [V](https://symfony.com/doc/current/security.html) |
+| Pheonix   | ![GitHub Repo stars](https://img.shields.io/github/stars/phoenixframework/phoenix)          | Elexir     | [V](https://hexdocs.pm/phoenix/mix_phx_gen_auth.html) |
+| Sails.js  | ![GitHub Repo stars](https://img.shields.io/github/stars/balderdashy/sails)                 | Node       | [V](https://sailsjs.com/documentation/concepts/policies/access-control-and-permissions) |
+| Play      | ![GitHub Repo stars](https://img.shields.io/github/stars/playframework/playframework)       | Scala      | [V](https://www.playframework.com/documentation/2.1.0/JavaGuide4) |
 
 # Leightweight FE
 
