@@ -2,19 +2,26 @@
 
 | Framework | Stars                                                                                       | Language   |
 | --------- | ------------------------------------------------------------------------------------------- | ---------- |
-| Next.js    | ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)                   | Node     |
+| Vue       | ![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/vue)                         |    Node    |
+| Next.js   | ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)                    | Node       |
 | Django    | ![GitHub Repo stars](https://img.shields.io/github/stars/django/django)                     | Python     |
 | Larael    | ![GitHub Repo stars](https://img.shields.io/github/stars/laravel/laravel)                   | PHP        |
+| Gin       | ![GitHub Repo stars](https://img.shields.io/github/stars/gin-gonic/gin)                     | Go         |
 | Spring Boot | ![GitHub Repo stars](https://img.shields.io/github/stars/spring-projects/spring-boot)     | Java       |
 | FastAPI   | ![GitHub Repo stars](https://img.shields.io/github/stars/tiangolo/fastapi)                  | Python     |
 | Flask     | ![GitHub Repo stars](https://img.shields.io/github/stars/pallets/flask)                     | Python     |
-| Express   | ![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)                 | Node |
+| Express   | ![GitHub Repo stars](https://img.shields.io/github/stars/expressjs/express)                 | Node       |
+| Nest      | ![GitHub Repo stars](https://img.shields.io/github/stars/nestjs/nest)                       |     Node   |
 | Rails     | ![GitHub Repo stars](https://img.shields.io/github/stars/rails/rails)                       | Ruby       |
+| Nuxt      | ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)                         |    Node    |
+| Meteor    | ![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)                     |    Node    |
 | ASP.NET Core | ![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/aspnetcore)              | C#         |
 | Symfony   | ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/symfony)                   | PHP        |
 | Pheonix   | ![GitHub Repo stars](https://img.shields.io/github/stars/phoenixframework/phoenix)          | Elexir     |
-| Sails.js   | ![GitHub Repo stars](https://img.shields.io/github/stars/balderdashy/sails)                 | Node |
-| Play   | ![GitHub Repo stars](https://img.shields.io/github/stars/playframework/playframework)          | Scala     |
+| Sails.js  | ![GitHub Repo stars](https://img.shields.io/github/stars/balderdashy/sails)                 | Node       |
+| Play      | ![GitHub Repo stars](https://img.shields.io/github/stars/playframework/playframework)       | Scala      |
+
+|  | ![GitHub Repo stars](https://img.shields.io/github/stars/)                    |        |
 
 # Leightweight FE
 
