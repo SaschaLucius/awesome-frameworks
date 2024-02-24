@@ -2,8 +2,8 @@
 
 | Framework | Stars                                                                                       | Language   | Native Auth | ORM   |
 | --------- | ------------------------------------------------------------------------------------------- | ---------- | ----------- | ---- |
-| Vue       | ![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/vue)                         |    Node    | [X]()       |
-| Next.js   | ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)                    | Node       | [V](https://nextjs.org/docs/pages/building-your-application/authentication) | X() |
+| Vue       | ![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/vue)                         |    Node    | [X]()       | [X]() |
+| Next.js   | ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)                    | Node       | [V](https://nextjs.org/docs/pages/building-your-application/authentication) | [Prisma]() |
 | Django    | ![GitHub Repo stars](https://img.shields.io/github/stars/django/django)                     | Python     | [V](https://docs.djangoproject.com/en/5.0/topics/auth/) | [V](https://docs.djangoproject.com/en/5.0/topics/db/queries/) |
 | Larael    | ![GitHub Repo stars](https://img.shields.io/github/stars/laravel/laravel)                   | PHP        | [V](https://laravel.com/docs/10.x/authentication) | [V](https://laravel.com/docs/10.x/eloquent) |
 | Gin       | ![GitHub Repo stars](https://img.shields.io/github/stars/gin-gonic/gin)                     | Go         | [?]() | [X]() |
@@ -16,6 +16,7 @@
 | Nuxt      | ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt)                         |    Node    | [V](https://auth.nuxtjs.org/) | [X]() |
 | Meteor    | ![GitHub Repo stars](https://img.shields.io/github/stars/meteor/meteor)                     |    Node    | [V](https://guide.meteor.com/accounts) | [V](https://docs.meteor.com/api/collections) |
 | ASP.NET Core | ![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/aspnetcore)              | C#         | [V](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-8.0) | [X]() |
+| Yew       | ![GitHub Repo stars](https://img.shields.io/github/stars/yewstack/yew)                      | Rust       |
 | Symfony   | ![GitHub Repo stars](https://img.shields.io/github/stars/symfony/symfony)                   | PHP        | [V](https://symfony.com/doc/current/security.html) | [V](https://symfony.com/doc/current/doctrine.html) |
 | Pheonix   | ![GitHub Repo stars](https://img.shields.io/github/stars/phoenixframework/phoenix)          | Elexir     | [V](https://hexdocs.pm/phoenix/mix_phx_gen_auth.html) | [V](https://hexdocs.pm/phoenix/ecto.html) |
 | Sails.js  | ![GitHub Repo stars](https://img.shields.io/github/stars/balderdashy/sails)                 | Node       | [V](https://sailsjs.com/documentation/concepts/policies/access-control-and-permissions) | [V](https://sailsjs.com/documentation/concepts/models-and-orm) |
@@ -36,6 +37,13 @@
 - Sails.js
 - Meteor
 - https://github.com/gin-gonic/gin
+- https://img.shields.io/github/stars/rwf2/Rocket
+
+# GitHub Topics
+
+- https://github.com/topics/web-framework
+- https://github.com/topics/framework
+- https://github.com/topics/web
 
 # ChatGPT Overview
 
