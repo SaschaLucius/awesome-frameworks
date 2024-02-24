@@ -1,6 +1,6 @@
 # awesome-web-dev
 
-| Framework | Stars                                                                                       | Language   | Native Auth | ORM   |
+| Framework | Stars                                                                                       | Language   | Native Auth | Native ORM |
 | --------- | ------------------------------------------------------------------------------------------- | ---------- | ----------- | ---- |
 | Vue       | ![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/vue)                         |    Node    | [X]()       | [X]() |
 | Next.js   | ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js)                    | Node       | [V](https://nextjs.org/docs/pages/building-your-application/authentication) | [Prisma]() |
